@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.Officehub.app-mergeReleaseResources-32:/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\deder\\.gradle\\caches\\transforms-3\\dba516a1973c3575db6d72de47e3b474\\transformed\\jetified-zxing-android-embedded-4.3.0\\res\\values-he\\values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,161,296",
+                        "endColumns": "55,49,134,89",
+                        "endOffsets": "106,156,291,381"
+                    }
+                }
+            ]
+        }
+    ]
+}

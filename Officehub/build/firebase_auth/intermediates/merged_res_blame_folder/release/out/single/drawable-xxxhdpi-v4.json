@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "io.flutter.plugins.firebase.auth.firebase_auth-merged_res-17:/drawable-xxxhdpi-v4/ic_password.png",
+        "source": "io.flutter.plugins.firebase.auth.firebase_auth-jetified-credentials-1.2.0-rc01-10:/drawable-xxxhdpi-v4/ic_password.png"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.auth.firebase_auth-merged_res-17:/drawable-xxxhdpi-v4/ic_passkey.png",
+        "source": "io.flutter.plugins.firebase.auth.firebase_auth-jetified-credentials-1.2.0-rc01-10:/drawable-xxxhdpi-v4/ic_passkey.png"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.auth.firebase_auth-merged_res-17:/drawable-xxxhdpi-v4/ic_other_sign_in.png",
+        "source": "io.flutter.plugins.firebase.auth.firebase_auth-jetified-credentials-1.2.0-rc01-10:/drawable-xxxhdpi-v4/ic_other_sign_in.png"
+    }
+]

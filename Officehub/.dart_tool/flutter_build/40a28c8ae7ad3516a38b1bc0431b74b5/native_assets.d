@@ -1,0 +1,1 @@
+ D:\\Joki\\Officehub\\.dart_tool\\flutter_build\\40a28c8ae7ad3516a38b1bc0431b74b5\\native_assets.yaml: 

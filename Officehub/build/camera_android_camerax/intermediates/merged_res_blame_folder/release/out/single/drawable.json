@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "io.flutter.plugins.camerax.camera_android_camerax-merged_res-14:/drawable/notification_tile_bg.xml",
+        "source": "io.flutter.plugins.camerax.camera_android_camerax-core-1.6.0-6:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.camerax.camera_android_camerax-merged_res-14:/drawable/notification_bg.xml",
+        "source": "io.flutter.plugins.camerax.camera_android_camerax-core-1.6.0-6:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.camerax.camera_android_camerax-merged_res-14:/drawable/notification_bg_low.xml",
+        "source": "io.flutter.plugins.camerax.camera_android_camerax-core-1.6.0-6:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.camerax.camera_android_camerax-merged_res-14:/drawable/notification_icon_background.xml",
+        "source": "io.flutter.plugins.camerax.camera_android_camerax-core-1.6.0-6:/drawable/notification_icon_background.xml"
+    }
+]

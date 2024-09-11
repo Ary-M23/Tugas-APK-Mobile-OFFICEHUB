@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.camerax.camera_android_camerax-merged_res-14:/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\deder\\.gradle\\caches\\transforms-3\\974b4f2252348b5ef43741b27d416a49\\transformed\\core-1.6.0\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.camerax.camera_android_camerax-mergeReleaseResources-12:/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\deder\\.gradle\\caches\\transforms-3\\974b4f2252348b5ef43741b27d416a49\\transformed\\core-1.6.0\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

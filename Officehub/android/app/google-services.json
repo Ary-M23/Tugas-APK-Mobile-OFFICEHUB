@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996072895898",
+    "project_id": "officehub-ed86f",
+    "storage_bucket": "officehub-ed86f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996072895898:android:e72994937c2c8492de7623",
+        "android_client_info": {
+          "package_name": "com.example.Officehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3Wnf-kBj1A1ioGqXLIMX4fD9Fodx1sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

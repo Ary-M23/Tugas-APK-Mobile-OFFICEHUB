@@ -1,0 +1,16 @@
+io.flutter.plugins.camerax.camera_android_camerax-jetified-annotation-experimental-1.1.0-0 C:\Users\deder\.gradle\caches\transforms-3\257e0bb88528f5fc66bfd853728809aa\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.camerax.camera_android_camerax-jetified-camera-camera2-1.3.3-1 C:\Users\deder\.gradle\caches\transforms-3\48628409c99736cb1760441232731b43\transformed\jetified-camera-camera2-1.3.3\res
+io.flutter.plugins.camerax.camera_android_camerax-jetified-camera-video-1.3.3-2 C:\Users\deder\.gradle\caches\transforms-3\52350f2775b184023f5a3f50b7b9d464\transformed\jetified-camera-video-1.3.3\res
+io.flutter.plugins.camerax.camera_android_camerax-jetified-window-1.0.0-beta04-3 C:\Users\deder\.gradle\caches\transforms-3\6582e67aea0be70979c64a0bfb01e347\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.camerax.camera_android_camerax-jetified-camera-lifecycle-1.3.3-4 C:\Users\deder\.gradle\caches\transforms-3\700dbc11dedfc396db14af56923f4136\transformed\jetified-camera-lifecycle-1.3.3\res
+io.flutter.plugins.camerax.camera_android_camerax-jetified-camera-core-1.3.3-5 C:\Users\deder\.gradle\caches\transforms-3\7a139a5838446b038939199dd84956b9\transformed\jetified-camera-core-1.3.3\res
+io.flutter.plugins.camerax.camera_android_camerax-core-1.6.0-6 C:\Users\deder\.gradle\caches\transforms-3\974b4f2252348b5ef43741b27d416a49\transformed\core-1.6.0\res
+io.flutter.plugins.camerax.camera_android_camerax-jetified-window-java-1.0.0-beta04-7 C:\Users\deder\.gradle\caches\transforms-3\9b0dd0bee9a81680af20f56797c52ab1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.camerax.camera_android_camerax-main-8 C:\Users\deder\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android_camerax-0.6.5+2\android\src\main\res
+io.flutter.plugins.camerax.camera_android_camerax-release-9 C:\Users\deder\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android_camerax-0.6.5+2\android\src\release\res
+io.flutter.plugins.camerax.camera_android_camerax-pngs-10 D:\Joki\Officehub\build\camera_android_camerax\generated\res\pngs\release
+io.flutter.plugins.camerax.camera_android_camerax-resValues-11 D:\Joki\Officehub\build\camera_android_camerax\generated\res\resValues\release
+io.flutter.plugins.camerax.camera_android_camerax-rs-12 D:\Joki\Officehub\build\camera_android_camerax\generated\res\rs\release
+io.flutter.plugins.camerax.camera_android_camerax-mergeReleaseResources-13 D:\Joki\Officehub\build\camera_android_camerax\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.camerax.camera_android_camerax-mergeReleaseResources-14 D:\Joki\Officehub\build\camera_android_camerax\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.camerax.camera_android_camerax-merged_res-15 D:\Joki\Officehub\build\camera_android_camerax\intermediates\merged_res\release
